@@ -30,7 +30,7 @@ console.log(example2);
 // => all provinces/territory abbreviations
 ```
 
-The default export from `states-us` is an array of object with the following structure:
+The default export from `provinces-ca` is an array of object with the following structure:
 
 | Property       | Type      | Description                               | Example   |
 | -------------- | --------- | ----------------------------------------- | --------- |
