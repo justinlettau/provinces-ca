@@ -1,7 +1,5 @@
 [![NPM Version](https://badge.fury.io/js/provinces-ca.svg)](https://badge.fury.io/js/provinces-ca)
 [![CI](https://github.com/justinlettau/provinces-ca/workflows/CI/badge.svg)](https://github.com/justinlettau/provinces-ca/actions)
-[![Dependency Status](https://david-dm.org/justinlettau/provinces-ca.svg)](https://david-dm.org/justinlettau/provinces-ca)
-[![Dev Dependency Status](https://david-dm.org/justinlettau/provinces-ca/dev-status.svg)](https://david-dm.org/justinlettau/provinces-ca?type=dev)
 
 # CA Provinces
 
