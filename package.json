@@ -37,7 +37,6 @@
     "prebuild": "del-cli dist",
     "build": "tsc -p tsconfig.json",
     "prepublishOnly": "npm run build",
-    "release": "standard-version",
     "format": "prettier --write ."
   },
   "husky": {
@@ -45,7 +44,6 @@
       "pre-commit": "pretty-quick --staged"
     }
   },
-  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^25.2.3",
     "@typescript-eslint/eslint-plugin": "^3.0.2",
@@ -57,7 +55,6 @@
     "jest": "^26.0.1",
     "prettier": "^2.0.5",
     "pretty-quick": "^2.0.1",
-    "standard-version": "^8.0.0",
     "ts-jest": "^26.1.0",
     "typescript": "^3.9.3"
   }
